@@ -22,6 +22,7 @@ db.sqlite3-journal
 # Postman local workspace
 .postman/
 
+postman/
 # OS
 .DS_Store
 Thumbs.db
